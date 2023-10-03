@@ -1,0 +1,102 @@
+header, footer{
+    background-color: mediumseagreen;
+}
+
+table, td{
+    border: 2px solid;
+    border-color: black;
+}
+
+td{
+    width: 200px;
+    height: 150px;
+}
+
+img{
+    width: 150px;  
+}
+
+/* rij 1 */
+
+#cel_1_1{
+    background-color: green;
+}
+#groen{
+    background-color: crimson;
+}
+#cel_1_2{
+background-color: lightcoral;
+}
+#cel_1_3{
+background-color: red;
+}
+#rood{
+    background-color: forestgreen;
+}
+#cel_1_4{
+    background-color: mediumturquoise;
+}
+
+/* rij 2*/
+
+#cel_2_1{
+    background-color: yellow;
+}
+#geel{
+    background-color: violet;
+}
+#cel_2_2{
+background-color: burlywood;
+}
+#cel_2_3{
+background-color: purple;
+}
+#paars{
+    background-color: gold
+}
+#cel_2_4{
+    background-color: darksalmon;
+}
+
+
+/* rij 3*/
+
+#cel_3_1{
+    background-color: orange;
+}
+#oranje{
+    background-color: deepskyblue;
+}
+#cel_3_2{
+background-color: indigo;
+}
+#cel_3_3{
+background-color: blue;
+}
+#blauw{
+    background-color: coral;
+}
+#cel_3_4{
+    background-color: palegoldenrod;
+}
+
+/* rij 4 */
+
+#cel_4_1{
+    background-color: brown;
+}
+#bruin{
+    background-color: aqua;
+}
+#cel_4_2{
+background-color: lightcoral;
+}
+#cel_4_3{
+background-color: gray;
+}
+#grijs{
+    background-color: lightgrey;
+}
+#cel_4_4{
+    background-color: mediumspringgreen;
+}
